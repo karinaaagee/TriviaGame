@@ -1,0 +1,32 @@
+body{
+    background-image: url("../images/bright_squares.png");
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    text-align: center;
+    background-color: white;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.Ques{
+    text-align: center;
+    font: 20px;
+}
+.jumbotron{
+    background-color: plum;
+    margin: 50px;
+}
+
+.scoreboard{
+    text-align: center;
+    font-size: 24px;
+}
+
+label{
+    padding: 0 5px;
+}
